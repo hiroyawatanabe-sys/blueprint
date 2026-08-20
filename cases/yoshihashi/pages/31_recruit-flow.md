@@ -59,4 +59,4 @@
 - ALT(bg_image2): スマホ用に縦位置で切り出した作業場の背景写真
 
 ## セクション3-1
-- ボタン(button): 中途採用の募集要項を見る | /recruit/jobs/
+- ボタン(button): 募集要項を見て応募する | /recruit/jobs/

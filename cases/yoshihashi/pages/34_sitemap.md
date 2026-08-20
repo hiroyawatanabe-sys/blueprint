@@ -16,14 +16,9 @@
 - 項目(title): HOME
 - リンク先(href): /
 ### 2件目
-- 項目(title): 会社概要
-- リンク先(href): /company/
-- 子項目1(title): 代表挨拶
-- 子リンク1(href): /company/message/
-### 3件目
 - 項目(title): リフォームサービス
 - リンク先(href): /service/
-- 子項目1(title): 断熱リフォーム
+- 子項目1(title): 断熱リフォーム（内窓・二重窓）
 - 子リンク1(href): /service/insulation/
 - 子項目2(title): 屋根・外壁塗装
 - 子リンク2(href): /service/painting/
@@ -31,39 +26,44 @@
 - 子リンク3(href): /service/waterproof/
 - 子項目4(title): シーリング工事
 - 子リンク4(href): /service/sealing/
-### 4件目
-- 項目(title): 私たちが選ばれる理由
+### 3件目
+- 項目(title): 選ばれる理由
 - リンク先(href): /usp/
-- 子項目1(title): 建て替えるほどじゃない、を直せます
+- 子項目1(title): 壊さないリフォーム
 - 子リンク1(href): /usp/no-rebuild/
-- 子項目2(title): 窓1枚から呼べて、家まるごと任せられる
+- 子項目2(title): 内窓1枚から一棟まるごと
 - 子リンク2(href): /usp/one-stop/
-- 子項目3(title): 今はまだ、直さなくて大丈夫です
+- 子項目3(title): 勧めすぎない現地調査
 - 子リンク3(href): /usp/honest-diagnosis/
-### 5件目
+### 4件目
 - 項目(title): お困り事から探す
 - リンク先(href): /solution/
-- 子項目1(title): 結露と冬の寒さを解消したい
+- 子項目1(title): 窓の結露・冬の寒さ
 - 子リンク1(href): /solution/condensation/
-- 子項目2(title): 外壁・屋根の劣化と雨漏りを直したい
+- 子項目2(title): 雨漏り・外壁の劣化
 - 子リンク2(href): /solution/leak/
-- 子項目3(title): アパート・所有物件を修繕したい
+- 子項目3(title): アパート・所有物件の修繕
 - 子リンク3(href): /solution/apartment/
-### 6件目
-- 項目(title): お客様にお届けできること
+### 5件目
+- 項目(title): お届けできること
 - リンク先(href): /benefit/
-### 7件目
+### 6件目
 - 項目(title): 施工事例
 - リンク先(href): /case/
-### 8件目
+### 7件目
 - 項目(title): よくあるご質問
 - リンク先(href): /faq/
-### 9件目
+### 8件目
 - 項目(title): お知らせ
 - リンク先(href): /news/
-### 10件目
-- 項目(title): 住まいのお役立ちブログ
+### 9件目
+- 項目(title): お役立ちブログ
 - リンク先(href): /blog/
+### 10件目
+- 項目(title): 会社概要
+- リンク先(href): /company/
+- 子項目1(title): 代表挨拶
+- 子リンク1(href): /company/message/
 ### 11件目
 - 項目(title): お問い合わせ
 - リンク先(href): /contact/
